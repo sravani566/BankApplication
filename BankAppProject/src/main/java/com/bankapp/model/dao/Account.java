@@ -14,7 +14,7 @@ import java.util.*;
 
 
 @Entity
-@Table(name="accounts_table_3",schema="public")
+@Table(name="account_table",schema="public")
 public class Account{
 
 	
